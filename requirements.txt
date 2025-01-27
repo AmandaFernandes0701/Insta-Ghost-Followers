@@ -1,0 +1,4 @@
+# requirements.txt
+instagrapi
+python-dotenv
+rich
