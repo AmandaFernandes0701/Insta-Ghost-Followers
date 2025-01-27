@@ -169,7 +169,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 Made with ❤️ by [Amanda Fernandes]([https://github.com/your-username](https://github.com/AmandaFernandes0701)).  
-📧 Contact: your-amandafernandesalves11@gmail.com  
+📧 Contact: amandafernandesalves11@gmail.com  
 🌐 LinkedIn: [Amanda Fernandes]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/amanda-fernandes-software-engineer/))  
 
 --- 
