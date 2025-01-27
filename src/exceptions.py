@@ -1,0 +1,2 @@
+# src/exceptions.py
+pass
