@@ -18,7 +18,7 @@
 
 **Insta Ghost Followers** is a simple and educational project developed to identify "ghost followers" on Instagram, i.e., people you follow but who don't follow you back. The project was created to explore the `instagrapi` library, which allows programmatic interaction with Instagram's API.
 
-⚠️ **Warning**: This project is **for educational purposes only**. We do not recommend using it with personal accounts, as Instagram may block or suspend accounts that make excessive or improper use of its API. Always use a test or dummy account.
+⚠️ **Warning**: This project is **for educational purposes only**. I do not recommend using it with personal accounts, as Instagram may block or suspend accounts that make excessive or improper use of its API. Always use a test or dummy account.
 
 ---
 
@@ -28,7 +28,7 @@
 This project was developed for studying and testing the `instagrapi` library. It does not collect, store, or share users' personal data. All information obtained is processed locally and is not persisted in any database or external service.
 
 ### Responsibility
-The use of this project is entirely the user's responsibility. The developers are not responsible for any blocks, suspensions, or penalties applied by Instagram due to improper use of the API. We recommend that you read and understand [Instagram's Terms of Use](#-instagram-terms-of-use-and-privacy) before using this project.
+The use of this project is entirely the user's responsibility. The developers are not responsible for any blocks, suspensions, or penalties applied by Instagram due to improper use of the API. I recommend that you read and understand [Instagram's Terms of Use](#-instagram-terms-of-use-and-privacy) before using this project.
 
 ---
 
@@ -168,9 +168,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Made with ❤️ by [Your Name](https://github.com/your-username).  
-📧 Contact: your-email@example.com  
-🌐 LinkedIn: [Your Profile](https://www.linkedin.com/in/your-profile/)  
+Made with ❤️ by [Amanda Fernandes]([https://github.com/your-username](https://github.com/AmandaFernandes0701)).  
+📧 Contact: your-amandafernandesalves11@gmail.com  
+🌐 LinkedIn: [Amanda Fernandes]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/amanda-fernandes-software-engineer/))  
 
 --- 
 
