@@ -28,7 +28,7 @@
 This project was developed for studying and testing the `instagrapi` library. It does not collect, store, or share users' personal data. All information obtained is processed locally and is not persisted in any database or external service.
 
 ### Responsibility
-The use of this project is entirely the user's responsibility. The developers are not responsible for any blocks, suspensions, or penalties applied by Instagram due to improper use of the API. I recommend that you read and understand [Instagram's Terms of Use](#-instagram-terms-of-use-and-privacy) before using this project.
+The use of this project is entirely the user's responsibility. I'm not responsible for any blocks, suspensions, or penalties applied by Instagram due to improper use of the API. I recommend that you read and understand [Instagram's Terms of Use](#-instagram-terms-of-use-and-privacy) before using this project.
 
 ---
 
