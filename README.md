@@ -96,7 +96,7 @@ Insta-Ghost-Followers/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Insta-Ghost-Followers.git
+   git clone https://github.com/AmandaFernandes0701/Insta-Ghost-Followers.git
    cd Insta-Ghost-Followers
    ```
 
